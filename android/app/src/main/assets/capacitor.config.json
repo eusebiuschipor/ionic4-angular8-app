@@ -1,0 +1,6 @@
+{
+	"appId": "com.coface.cofamove",
+	"appName": "Cofamove",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
